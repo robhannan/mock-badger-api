@@ -1,5 +1,6 @@
 {
   "users": [
     { "id": 1, "first_name": "Rob", "last_name": "Hannan", "email": "rob.hannan@red-badger.com" }
-  ]
+  ],
+  "users/1": {}
 }
