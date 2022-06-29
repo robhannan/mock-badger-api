@@ -3,5 +3,13 @@
     { "id": 1, "first_name": "Some", "last_name": "Guy", "email": "some.guy@red-badger.com" },
     { "id": 2, "first_name": "Rob", "last_name": "Hannan", "email": "rob.hannan@red-badger.com" },
     { "id": 3, "first_name": "Andy", "last_name": "Nother", "email": "andy.nother@red-badger.com" }
-  ]
+  ],
+  "interests": [
+    { "interestId": 1, "name": "food"},
+    { "interestId": 2, "name": "drinks"},
+    { "interestId": 3, "name": "coffee"},
+    { "interestId": 4, "name": "chats"},
+    { "interestId": 5, "name": "walks"},
+    { "interestId": 6, "name": "hugs"}
+    ]
 }
