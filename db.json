@@ -1,8 +1,7 @@
 {
   "users": [
     { "id": 1, "first_name": "Some", "last_name": "Guy", "email": "some.guy@red-badger.com" },
-    { "id": 2, "first_name": "Rob", "last_name": "Hannan", "email": "rob.hannan@red-badger.com" },
-    { "id": 3, "first_name": "Andy", "last_name": "Nother", "email": "andy.nother@red-badger.com" }
+    { "id": 2, "first_name": "Andy", "last_name": "Nother", "email": "andy.nother@red-badger.com" }
   ],
   "interests": [
     { "interestId": 1, "name": "food"},
